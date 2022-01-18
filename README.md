@@ -1,6 +1,7 @@
 <h2 align="center">:raised_hands: Hello, I'm Nikola :raised_hands:</h2>
 :star_struck: I'm a high schooler who loves programming.<br>
-:exploding_head: Every day I'm making a step deeper into the world of programming, which is becoming more interesting as more as I keep learning.
+:exploding_head: Every day I'm making a step deeper into the world of programming, which is becoming more interesting as more as I keep learning.<br>
+	:dizzy: I believe that this world will be a better place as long as software keeps getting better and continue making people's lives easier.
 
 <hr>
 
@@ -8,8 +9,7 @@
 
 <hr>
 
-🤔 Since I'm relatively new to the world of software engineering, I would be happy for every piece of advice or help on my projects.<br>
-I believe that this world will be a better place as long as software keeps getting better and continue making people's lives easier.
+🤔 Since I'm relatively new to the world of software engineering, I would be happy for every piece of advice or help on my projects.
 
 <hr>
 
@@ -27,6 +27,6 @@ I believe that this world will be a better place as long as software keeps getti
 
 <hr>
 
-:label: Favorite quote: <br>
+:speech_balloon: Favourite quote: <br>
 "It's not at all important to get it right the first time. It's vitally important to get it right the last time" <br>
 *The Pragmatic Programmer*, Andrew Hunt and David Thomas
