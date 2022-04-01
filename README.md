@@ -1,11 +1,10 @@
 <h2 align="center">:raised_hands: Hello, I'm Nikola :raised_hands:</h2>
 :star_struck: I'm a high schooler who loves programming.<br>
-:exploding_head: Every day I'm making a step deeper into the world of programming, which is becoming more interesting as more as I keep learning.<br>
-	:dizzy: I believe that this world will be a better place as long as software keeps getting better and continue making people's lives easier.
 
 <hr>
 
-🔭 I'm currently working on applications that can help people in their everyday life.
+🔭 I'm currently working on [Network File Manager](https://github.com/Nikola-Mircic/NetworkFileManager) app.<br>
+:handshake:  I'm looking to collaborate on JavaScript and Julia projects.
 
 <hr>
 
