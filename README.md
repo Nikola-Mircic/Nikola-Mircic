@@ -3,7 +3,7 @@
 
 <hr>
 
-🔭 I'm currently working on [Network File Manager](https://github.com/Nikola-Mircic/NetworkFileManager) app.<br>
+🔭 I'm currently working on [MathHelper](https://github.com/Nikola-Mircic/math-helper) app.<br>
 :handshake:  I'm looking to collaborate on JavaScript and Julia projects.
 
 <hr>
