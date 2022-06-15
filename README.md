@@ -3,7 +3,6 @@
 
 <hr>
 
-🔭 I'm currently working on [MathHelper](https://github.com/Nikola-Mircic/math-helper) app.<br>
 :handshake:  I'm looking to collaborate on JavaScript and Julia projects.
 
 <hr>
