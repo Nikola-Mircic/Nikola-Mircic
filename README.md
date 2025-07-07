@@ -2,11 +2,9 @@
 
 <hr>
 
-
 <p align="center">
-	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nikola-Mircic&show_icons=true&theme=gotham&&count_private=true" />
-	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nikola-Mircic&layout=compact&theme=gotham&langs_count=6" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Nikola-Mircic&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikola-Mircic&show_icons=true&theme=dark&langs_count=8&layout=compact"/>
 </p>
 
 <hr>
